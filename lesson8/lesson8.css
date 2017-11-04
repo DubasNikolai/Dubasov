@@ -1,0 +1,26 @@
+body {
+    margin: 10px;
+    background: #7f7e80;
+    padding-top: 100px;
+}
+main {
+    width: 80%;
+    margin: 0 auto;
+    background: #ffffff;
+}
+main :first-child {
+    display: inline-block;
+}
+
+.black_block {
+    height:  100px;
+    background: #181818;
+    margin: -50px 0 0 40px;
+
+}
+.yellow_block {
+    height: 30px;
+    background: orange;
+    margin: 0 0 0 50px;
+    width: cals(100% - 10px);
+}

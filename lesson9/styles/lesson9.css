@@ -1,0 +1,12 @@
+.main_section {
+    background: darkblue;
+    min-height: 100vh;
+    color: white;
+}
+.section_inner {
+    max-width: 932px;
+    margin: 0 auto;
+}
+.section_inner {
+
+}

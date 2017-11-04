@@ -1,0 +1,27 @@
+. {
+     padding: 0; margin: 0;
+ }
+input[type=text] {
+    border: 0;
+    font-family: Arial;
+    font-size: 96px;
+    font-weight: bold;
+    color: #C2C2C2;
+    margin: 30px;
+    background: #F1F1F1;
+    width: 80%;
+}
+body {
+    width: 75%;
+    margin: 0 auto;
+    background: #F1F1F1;
+}
+.cal-1 {
+    list-style-image: none;
+    
+}
+li {
+   border: solid 1px #7f7e80;
+   box-sizing: 50px 20px;
+
+}

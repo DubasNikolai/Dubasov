@@ -1,0 +1,30 @@
+body {
+    display: block;
+    width: 800px;
+    height: 550px;
+    margin: 100px;
+    border: ridge 8px;
+    padding: 60px;
+}
+header {
+    font-family: Georgia ;
+    font-size: 28px;
+    padding: 80px 0 0 0;
+}
+span {
+   font-family: "Times New Roman";
+    font-size: 64px;
+    float: left;
+    margin: -10px 10px -10px 0;
+    vertical-align: top;
+}
+futer {
+    border-color: orange;
+    border-style: ridge;
+    padding: 18px 38px;
+    margin: 20px 0px 0px 0px;
+    color: orange;
+}
+p {
+    font-family: ;
+}

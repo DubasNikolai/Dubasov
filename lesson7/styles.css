@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush|Gloria+Hallelujah|Indie+Flower|Pangolin|Sedgwick+Ave+Display&subset=cyrillic,cyrillic-ext,latin-ext');
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('fons/2211-webfont.woff2') format('woff2'),
+    url('fons/2211-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p{
+    font-size: 28px;
+    font-family: 'Indie Flower', cursive;, sans-serif;
+}
+p:first-child{
+    font-family: 'Caveat Brush', cursive;
+}
+p:last-of-type {
+    font-family: 'Pangolin', Arial, cursive;
+}
+div {
+    font-family: 'open_sansregular' ,sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: bold;
+    color: purple;
+    line-height: 1.2;
+    letter-spacing: 1px;
+    text-decoration: underline overline line-through;
+}
+
