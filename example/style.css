@@ -1,0 +1,14 @@
+body {
+    background: #7f7e80;
+}
+.board {
+    border: 2px double black;
+    background: #E1C9AD;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    margin: auto;
+    width: 70vw;
+    height: 70vw;
+}

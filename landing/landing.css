@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('fonts/SegoeUI-Bold.woff2') format('woff2'),
+    url('fonts/SegoeUI-Bold.woff') format('woff'),
+    url('fonts/SegoeUI-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+main {
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+    padding: 52px;
+    height: 140px;
+    margin: 0 auto; display: block;
+}
+h1 {
+    font-family: "Segoe UI Semibold";
+    font-weight: bold;
+    font-size: 80px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    color: #ffffff;
+}
+.section_1 {
+    text-align: center;
+    background: #23232E;
+    min-height: 100vh;
+    margin: 0 auto;
+    font-family: "Segoe UI Light";
+    font-size: 18px;
+    color: #ffffff;
+}
+.section-2 {
+    min-height: 100vh;
+    min-width: 100vh;
+    background-image: url("images/фон.jpg");
+    color: #464b4f;
+    font-family: "Segoe UI Regular", sans-serif;
+    font-weight: normal;o
+}
+.section-2 span {
+    font-family: "Segoe UI Light";
+    font-size: 30px;
+    color: #23232e;
+
+}
+
+

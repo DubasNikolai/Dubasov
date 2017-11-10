@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('fonts/SegoeUI-Bold.woff2') format('woff2'),
+    url('fonts/SegoeUI-Bold.woff') format('woff'),
+    url('fonts/SegoeUI-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
 body {
     margin: 10px;
     background: #7f7e80;
@@ -23,4 +31,8 @@ main :first-child {
     background: orange;
     margin: 0 0 0 50px;
     width: cals(100% - 10px);
+}
+main_section article {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 30px;
 }

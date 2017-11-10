@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+.iner {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header a, header ul {
+    display: inline-block;
+    vertical-align: middle;
+}
+header li {
+    display: inline-block;
+    margin-left: 32px;
+}
+header li a {
+    text-decoration: none;
+    color: #303030;
+    font-size: 18px;
+}
+.logo {
+    background: url("images/logo.png") no-repeat;
+    width: 272px;
+    height: 36px;
+}
+header .iner {
+    position: relative;
+}
+header ul {
+    position: absolute;
+    right: 0;
+}
+.top-text {
+    width: 50%;
+    text-align: right;
+}
+.top-text h1 {
+    font-size: 150px;
+}
+.top-text a {
+    color: darkred;
+    font-weight: bold;
+    text-decoration: none;
+}

@@ -1,0 +1,17 @@
+body {
+    background: url("../nev/images/fon.png")
+}
+.karkas {
+    width: 1200px;
+    margin: 0 auto;
+}
+h2 {
+    font-family: "Roboto Black", sans-serif;
+    font-size: 48px;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li {
+    float: left; padding: 10px 10px;
+}
